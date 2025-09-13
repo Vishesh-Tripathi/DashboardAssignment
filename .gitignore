@@ -1,0 +1,81 @@
+# Node modules
+/node_modules/
+
+# Build output
+/dist/
+/build/
+/out/
+/.next/
+/.vite/
+
+# Vite cache
+/node_modules/.vite/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime files
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+.env.*.local
+.env.local
+
+# Testing
+coverage/
+
+# TypeScript
+*.tsbuildinfo
+
+# Misc
+.cache/
+.parcel-cache/
+
+# Optional lock files (uncomment if you use pnpm)
+# .pnpm-store/
+
+# JetBrains
+/.idea
+
+# Windows image file caches
+ehthumbs.db
+
+# Temporary
+tmp/
+temp/
+
+# Build artifacts
+dist/
+
+# Yarn v2/v3
+.pnp.cjs
+.pnp.loader.mjs
+
+# Mac-specific
+.AppleDouble
+.LSOverride
+
+# Sensitive files
+secrets.env
+
+# End of file
