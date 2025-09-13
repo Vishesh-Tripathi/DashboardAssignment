@@ -1,6 +1,7 @@
 # Dashboard Assignment
 
 This is a Vite + React + Tailwind project implementing a dynamic dashboard for a frontend trainee assignment.
+visit-https://dashboard-assignment-orcin.vercel.app/
 
 Features:
 - Dynamic categories and widgets driven by JSON
